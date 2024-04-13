@@ -1,0 +1,66 @@
+/* Navbar styling */
+.navbar {
+    background-color: #ffffff; /* Primary color */
+    padding-top: 10px; /* Adjust padding as needed */
+    padding-bottom: 10px; /* Adjust padding as needed */
+  }
+
+  .logo img{
+    width: 100px;
+    margin-right: 10%;
+  }
+
+  .navbar-nav .nav-item {
+    margin-right: 10px; /* Adjust spacing between nav items */
+  }
+  
+  .navbar-nav .nav-link {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  .btn-nav {
+    margin-left: 10px; /* Adjust spacing between buttons */
+  }
+  .navbar-brand {
+    color: #fff; /* White color for the brand */
+    font-size: 1.5rem; /* Adjust as needed */
+  }
+  
+  .navbar-nav {
+    margin-left: auto; /* Align items to the right */
+  }
+  
+  .nav-item {
+    margin-right: 15px; /* Adjust spacing between nav items */
+  }
+  
+  .nav-link {
+    color: #fff; /* White color for nav links */
+  }
+  
+  /* Dropdown menu */
+  .dropdown-menu {
+    background-color: #ffffff; /* Primary color for dropdown */
+  }
+  
+  .dropdown-item {
+    color: #000000; /* White color for dropdown items */
+  }
+  
+  .dropdown-item:hover {
+    background-color: #ffe600; /* Darker shade on hover */
+  }
+  
+  /* Login and Sign-Up buttons */
+  .btn-outline-dark {
+    margin-left: 10px; /* Adjust spacing between buttons */
+    color: #000000; /* White color for button text */
+    border-color: #fff; /* White color for button border */
+  }
+  
+  .btn-outline-dark:hover {
+    background-color: #0026ff; /* White color on hover */
+    color: #ccff00; /* Primary color for button text on hover */
+  }
+  
