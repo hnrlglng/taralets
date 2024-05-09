@@ -18,28 +18,10 @@ class Navbarz extends React.Component {
                 <a class="nav-link" aria-current="page" href="#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Car Rentals</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link"  href="#">Flight</a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link" href="#">Accomodation</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">About Us</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Menu
-                </a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Settings</a></li>
-                  <li><hr class="dropdown-divider"/></li>
-                  <li><a class="dropdown-item" href="#">Notification</a></li>
-                  <li><hr class="dropdown-divider"/></li>
-                  <li><a class="dropdown-item" href="#">Profile</a></li>
-                </ul>
               </li>
             </ul>
             <li class="nav-item">

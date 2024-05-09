@@ -43,14 +43,6 @@ const Data = [
   grade: 'CULTURAL RELAX ',  
   },
 
-  {
-    id:4,
-    imgSrc: img9,
-    destTitle: 'Binurong Point',
-    location: 'Catanduanes',
-    grade: 'CULTURAL RELAX ',
-    }
-
 ]
 
  
@@ -71,11 +63,6 @@ const Data = [
           <p>
           From historical cities to natural specteculars, come see the best of the world!
           </p>
-          </div>
-
-          <div data-aos="fade-left" data-aos-duration="2500" className="iconsDiv flex">
-            <BsArrowLeftShort className="icon leftIcon"/>
-            <BsArrowRightShort className="icon"/>
           </div>
         </div>
 
@@ -112,12 +99,11 @@ const Data = [
                <h6>
                 {location} 
                </h6>
-               <span className='flex'>
+               
                 <span className="dot">
                 <BsDot className='icon'/>
                 </span>
                  TARALETS
-               </span>
              </div>
             </div>
 

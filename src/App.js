@@ -17,7 +17,6 @@ const App = () => {
     <Popular/>
     <Offer/>
     <About/>
-    <Blog/>
     <Footer/>
     
     </>

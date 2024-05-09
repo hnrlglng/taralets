@@ -42,9 +42,6 @@ const Navbar = () => {
                 <a href="#" className="navLink">Accomodations</a>
               </li>
               <li className="navItem">
-                <a href="#" className="navLink">Car Rentals</a>
-               </li>
-              <li className="navItem">
                 <a href="#" className="navLink">About Us</a>
               </li>
               <li className="navItem">
