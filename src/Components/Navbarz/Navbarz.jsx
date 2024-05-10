@@ -4,7 +4,7 @@ import imgLogo from '../../Assets/logo.png'
 class Navbarz extends React.Component {
   render() {
     return (
-        <nav class="navbar navbar-expand-lg bg-primary sticky-top">
+        <nav class="navbar navbar-expand-lg sticky-top">
         <div class="container-fluid">
           <a class="navbar-brand" href="#" className="logo flex"> <img src={imgLogo} alt="Logo" />
           <span style={{ color: 'white', fontWeight: 'bold' }}>Taralets</span></a>
@@ -24,10 +24,6 @@ class Navbarz extends React.Component {
                 <a class="nav-link" href="#">About Us</a>
               </li>
             </ul>
-            <li class="nav-item">
-            <button class="btn btn-outline-dark" type="submit">Login</button>
-            <button class="btn btn-outline-dark" type="submit">Sign-Up</button>
-        </li>
           </div>
         </div>
       </nav>

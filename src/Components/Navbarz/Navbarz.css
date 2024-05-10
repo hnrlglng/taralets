@@ -1,6 +1,6 @@
 /* Navbar styling */
 .navbar {
-    background-color: #ffffff; /* Primary color */
+    background-color: #c5c1c1; /* Primary color */
     padding-top: 10px; /* Adjust padding as needed */
     padding-bottom: 10px; /* Adjust padding as needed */
   }
@@ -60,7 +60,7 @@
   }
   
   .btn-outline-dark:hover {
-    background-color: #0026ff; /* White color on hover */
+    background-color: #eeeeee; /* White color on hover */
     color: #ccff00; /* Primary color for button text on hover */
   }
   

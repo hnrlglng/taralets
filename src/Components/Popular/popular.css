@@ -121,16 +121,7 @@
   width: -moz-max-content;
   width: max-content;
 }
-.popular .secContainter .mainContent .singleDestination .destFooter .number::after {
-  content: "";
-  position: absolute;
-  background: var(--PrimaryColor);
-  top: 45%;
-  right: -150%;
-  height: 5px;
-  width: 45px;
-  border-radius: 1rem;
-}
+
 .popular .secContainter .mainContent .singleDestination .destFooter .destText {
   justify-content: space-between;
 }

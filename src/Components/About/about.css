@@ -36,15 +36,7 @@ h1{
   color: #333;
   padding-bottom: 1px;
 }
-h1::after
-{
-  content:'';
-  background: #333;
-  display: block;
-  height: 3px;
-  width: 150px;
-  margin: 01px auto;
-}
+
 
 .profile
 {

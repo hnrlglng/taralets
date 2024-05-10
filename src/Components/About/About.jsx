@@ -1,13 +1,13 @@
 import React, {useEffect}  from 'react'
 import './about.css'
-import customerImg from '../../Assets/customer.png'
-import mountainImg from '../../Assets/mountain.png'
-import climbingImg from '../../Assets/climbing.png'
+// import customerImg from '../../Assets/customer.png'
+// import mountainImg from '../../Assets/mountain.png'
+// import climbingImg from '../../Assets/climbing.png'
 import prilaImg from '../../Assets/thomas.png'
 import galangImg from '../../Assets/henri.png'
 import gonzalesImg from '../../Assets/gonzales.jpg'
 import mayanaImg from '../../Assets/mayana.jpg'
-import video from '../../Assets/video.mp4'
+// import video from '../../Assets/video.mp4'
 
 // Import Aos ======================>
 import Aos from 'aos'

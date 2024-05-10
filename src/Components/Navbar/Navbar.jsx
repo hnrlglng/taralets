@@ -47,15 +47,6 @@ const Navbar = () => {
               <li className="navItem">
                 <a href="#" className="navLink">Blog</a>
               </li>
-              
-              <div className="headerBtns flex">
-              <button className="btn loginBtn">
-                <a href="#">Login</a>
-              </button>
-              <button className="btn">
-                <a href="#">Sign Up</a>
-              </button>
-              </div>
             </ul>
             <div onClick={removeNav} className="closeNavbar">
                 <AiFillCloseCircle className='icon'/>

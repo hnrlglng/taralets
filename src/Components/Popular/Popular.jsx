@@ -101,7 +101,7 @@ const Data = [
                </h6>
                
                 <span className="dot">
-                <BsDot className='icon'/>
+                
                 </span>
                  TARALETS
              </div>

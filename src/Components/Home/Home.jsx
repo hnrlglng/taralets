@@ -56,44 +56,7 @@ const Home = () => {
 
         
       </div>
-      <div
-        class="offcanvas offcanvas-start"
-        tabindex="-1"
-        id="offcanvasExample"
-        aria-labelledby="offcanvasExampleLabel"
-      >
-        <div class="offcanvas-header">
-          <h5 class="offcanvas-title" id="offcanvasExampleLabel">
-            Filter Search
-          </h5>
-          <button
-            type="button"
-            class="btn-close text-reset"
-            data-bs-dismiss="offcanvas"
-            aria-label="Close"
-          ></button>
-        </div>
-        <div class="offcanvas-body">
-          <div>CLick the dropdown to select filter categories.</div>
-          <div class="dropdown mt-3">
-            <button
-              class="btn btn-secondary dropdown-toggle"
-              type="button"
-              id="dropdownMenuButton"
-              data-bs-toggle="dropdown"
-            >
-              Categories
-            </button>
-            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <li>
-                <a class="dropdown-item" href="#">
-                  Accomodations
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
+      
     </section>
   );
 };
